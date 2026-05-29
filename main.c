@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    float teste = 1.09;
+    int num = 1000;
     printf("Ola este é um teste, mas agora é diferente do que era antes");
-    printf("%f", teste);
-    printf("Este eh o branch");
+    printf("%d", num);
+    printf("Este eh o branch teste");
     return 0;
 }
