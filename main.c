@@ -2,7 +2,7 @@
 
 int main(){
     int numero = 10;
-    printf("Hello World, my name is Matheus. What is your age?");
+    printf("Ola este é um teste");
     printf("%d", numero);
     return 0;
 }
